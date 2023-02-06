@@ -5,8 +5,8 @@ This project is a combination of two commonly used data structures, Hash Table a
 
 	Operation time complixity to be:
 	1. Insert  O(log n)
-	2. Search O(log n)
-	3. Delete O(log n)
+	2. Search  O(log n)
+	3. Delete  O(log n)
 
 ## Functionality
 The application has several operations that can be performed including:
