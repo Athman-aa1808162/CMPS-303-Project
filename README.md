@@ -1,5 +1,4 @@
 ## Introduction 
-----------------
 	**Data Structure Course - ```CMPS 303```
 
 This project is a combination of two commonly used data structures, Hash Table and Tree, to create a more efficient data structure for managing student information. The main goal of this project is to reduce the time complexity of common operations such as insertion, searching, and deletion to O(log n).
@@ -10,7 +9,6 @@ This project is a combination of two commonly used data structures, Hash Table a
 	3. Delete ```O(log n)```
 
 ## Functionality
-------------------------
 The application has several operations that can be performed including:
 
 1.  Adding a new student
@@ -21,7 +19,6 @@ The application has several operations that can be performed including:
 6.  Exiting the application & save to files
 
 ## Project Classes
-----------------
 The project consists of several classes including:
 
 - App:
@@ -40,5 +37,4 @@ The project consists of several classes including:
 	This class contains information about a student, including the student's `name`, `id`, and `GPA`
 
 ## Conclusion
-----------------
 This project combines two commonly used data structures, Hash Table and Tree, to create a more efficient data structure for managing student information. The project has several classes that work together to provide a user-friendly interface for the user to perform common operations such as insertion, searching, and deletion with a time complexity of `O(log n).
