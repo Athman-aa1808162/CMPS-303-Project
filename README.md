@@ -1,5 +1,5 @@
 ## Introduction 
-	**Data Structure Course - ```CMPS 303```
+	Data Structure Course - CMPS 303
 
 This project is a combination of two commonly used data structures, Hash Table and Tree, to create a more efficient data structure for managing student information. The main goal of this project is to reduce the time complexity of common operations such as insertion, searching, and deletion to O(log n).
 
