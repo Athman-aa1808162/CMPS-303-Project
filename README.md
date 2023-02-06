@@ -3,7 +3,7 @@
 
 This project is a combination of two commonly used data structures, Hash Table and Tree, to create a more efficient data structure for managing student information. The main goal of this project is to reduce the time complexity of common operations such as insertion, searching, and deletion to O(log n).
 
-**Operation time complixity to be:
+***Operation time complixity to be:
 	1. Insert  ```O(log n)```
 	2. Search ```O(log n)```
 	3. Delete ```O(log n)```
